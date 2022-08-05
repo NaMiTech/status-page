@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/nami-tech.es",
     "slug": "web",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "98.01%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 1399,
-    "timeDay": 1157,
-    "timeWeek": 1527,
-    "timeMonth": 1505,
-    "timeYear": 1399,
+    "uptimeYear": "99.97%",
+    "time": 1397,
+    "timeDay": 1312,
+    "timeWeek": 1567,
+    "timeMonth": 1514,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2022-08-04": 29
     }
