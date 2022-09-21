@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/nami-tech.es",
     "slug": "web",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
-    "time": 1330,
-    "timeDay": 1043,
-    "timeWeek": 1283,
-    "timeMonth": 1297,
-    "timeYear": 1330,
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
+    "time": 1332,
+    "timeDay": 1220,
+    "timeWeek": 1352,
+    "timeMonth": 1303,
+    "timeYear": 1332,
     "dailyMinutesDown": {
-      "2022-09-20": 10,
       "2022-08-04": 29
     }
   }
