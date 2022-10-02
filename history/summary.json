@@ -2,7 +2,7 @@
   {
     "name": "web",
     "url": "https://nami-tech.es/",
-    "icon": "https://favicons.githubusercontent.com/nami-tech.es",
+    "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "web",
     "status": "up",
     "uptime": "99.98%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1337,
-    "timeDay": 1292,
-    "timeWeek": 1283,
-    "timeMonth": 1270,
+    "timeDay": 1360,
+    "timeWeek": 1230,
+    "timeMonth": 1265,
     "timeYear": 1337,
     "dailyMinutesDown": {
       "2022-08-04": 29
