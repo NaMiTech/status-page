@@ -4,7 +4,7 @@
     "url": "https://nami-tech.es/",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1153,
     "timeYear": 1245,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-10-04": 26,
       "2022-08-04": 29
     }
