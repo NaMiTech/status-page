@@ -5,6 +5,8 @@ repo: status-page # The name of this repository
 sites:
   - name: web
     url: https://nami-tech.es/
+  - name: room2learn
+    url: http://127.0.0.1:8000/v1/status
     
 
 status-website:
