@@ -10,14 +10,34 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1212,
-    "timeDay": 854,
-    "timeWeek": 997,
-    "timeMonth": 1093,
-    "timeYear": 1212,
+    "time": 1211,
+    "timeDay": 862,
+    "timeWeek": 981,
+    "timeMonth": 1087,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2022-10-04": 26,
       "2022-08-04": 29
+    }
+  },
+  {
+    "name": "room2learn",
+    "url": "http://127.0.0.1:8000/v1/status",
+    "icon": "https://icons.duckduckgo.com/ip3/127.0.0.1.ico",
+    "slug": "room2learn",
+    "status": "down",
+    "uptime": "15.02%",
+    "uptimeDay": "15.02%",
+    "uptimeWeek": "15.02%",
+    "uptimeMonth": "15.02%",
+    "uptimeYear": "15.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-05-11": 0
     }
   }
 ]
