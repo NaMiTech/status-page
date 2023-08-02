@@ -7,6 +7,8 @@ sites:
     url: https://nami-tech.es/
   - name: room2learn
     url: https://nami-tech.es/room2learn-api/v1/status
+  - name: Dreambook
+    url: https://nami-tech.es/api-dreambook/
     
 
 status-website:
@@ -15,9 +17,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status-page
   logoUrl: https://nami-tech.es/wp-content/uploads/2021/09/nami-1.png
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: NaMi Tech
+  introTitle: "Status Page de los servicios de NaMi Tech"
+  introMessage: Aquí puedes ver el estado en el que se encuentran los distintos servicios que ofrecemos
   navbar:
     - title: Status
       href: /
