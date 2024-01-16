@@ -4,27 +4,29 @@
     "url": "https://nami-tech.es/",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1160,
+    "time": 1161,
     "timeDay": 1338,
     "timeWeek": 1241,
     "timeMonth": 1183,
     "timeYear": 1155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 1
+    }
   },
   {
     "name": "room2learn",
     "url": "https://nami-tech.es/room2learn-api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "room2learn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 135,
     "timeMonth": 121,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "Dreambook",
