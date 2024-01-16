@@ -4,19 +4,19 @@
     "url": "https://nami-tech.es/",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1161,
-    "timeDay": 1338,
-    "timeWeek": 1241,
+    "time": 1159,
+    "timeDay": 1251,
+    "timeWeek": 1231,
     "timeMonth": 1183,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2024-01-16": 1
+      "2024-01-16": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nami-tech.es/room2learn-api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "room2learn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 157,
-    "timeWeek": 135,
+    "timeDay": 139,
+    "timeWeek": 133,
     "timeMonth": 121,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 9
     }
   },
   {
