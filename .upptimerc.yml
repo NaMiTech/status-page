@@ -8,7 +8,7 @@ sites:
   - name: room2learn
     url: https://nami-tech.es/room2learn-api/v1/status
   - name: Dreambook
-    url: https://nami-tech.es/api-dreambook/
+    url: https://nami-tech.es/dreambook/health/
   - name: SmartEat
     url: https://nami-tech.es/barcodeapi/v1/status
     
