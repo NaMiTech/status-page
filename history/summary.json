@@ -58,9 +58,9 @@
     "url": "https://nami-tech.es/barcodeapi/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "smart-eat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 151,
     "timeMonth": 174,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-17": 0
+    }
   }
 ]
