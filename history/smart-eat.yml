@@ -1,7 +1,7 @@
 url: https://nami-tech.es/barcodeapi/v1/status
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2025-11-02T23:11:57.514Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-11-03T21:33:20.279Z
 startTime: 2023-12-07T20:46:55.077Z
 generator: Upptime <https://github.com/upptime/upptime>
