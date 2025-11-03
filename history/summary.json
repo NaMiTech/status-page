@@ -4,10 +4,10 @@
     "url": "https://nami-tech.es/",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1084,
@@ -15,17 +15,19 @@
     "timeWeek": 957,
     "timeMonth": 1161,
     "timeYear": 1090,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 2
+    }
   },
   {
     "name": "room2learn",
     "url": "https://nami-tech.es/room2learn-api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "room2learn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
@@ -33,34 +35,38 @@
     "timeWeek": 121,
     "timeMonth": 133,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 1
+    }
   },
   {
     "name": "Dreambook",
     "url": "https://nami-tech.es/dreambook/health/",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "dreambook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
+    "time": 143,
     "timeDay": 139,
     "timeWeek": 115,
     "timeMonth": 127,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 1
+    }
   },
   {
     "name": "SmartEat",
     "url": "https://nami-tech.es/barcodeapi/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/nami-tech.es.ico",
     "slug": "smart-eat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.31%",
     "uptimeYear": "99.11%",
@@ -70,6 +76,7 @@
     "timeMonth": 129,
     "timeYear": 134,
     "dailyMinutesDown": {
+      "2025-11-03": 0,
       "2025-10-21": 121,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
